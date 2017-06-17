@@ -8,8 +8,8 @@ We will be working through a full wishlist application together that will involv
 
 # To get started 
 
-  *Fork this repo 
-  *Clone your fork to your local machine
-  *Once you have your fork on your local machine give a, OOOOOOO YAAAAAAAAA! High five someone, slam a beer, celebrate!
+  * Fork this repo 
+  * Clone your fork to your local machine
+  * Once you have your fork on your local machine give a, OOOOOOO YAAAAAAAAA! High five someone, slam a beer, celebrate!
   
   
